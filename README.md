@@ -20,7 +20,7 @@ Creative studios & startups
 
 Key Features Designed
 
-🌐 Web Platform
+Web Platform
 Landing page with value proposition
 Find Designers & Browse Projects
 Designer Profile with portfolio, reviews, hourly rate
@@ -28,7 +28,7 @@ Job listings with filters (skills, budget, location, remote)
 Project details & proposal submission flow
 Step-by-step hiring process (Find → Submit Proposal → Get Hired)
 
-📱 Mobile App
+Mobile App
 
 Freelancer discovery & job search
 Category-based services (Figma Designer, UX Strategist, etc.)
@@ -74,10 +74,10 @@ Profile Screen (Mobile)
 
 Assignment Compliance
 
-✔ Public GitHub Repository
-✔ Repository naming guidelines followed
-✔ Original UI/UX work
-✔ Screens properly documented
+Public GitHub Repository
+Repository naming guidelines followed
+Original UI/UX work
+Screens properly documented
 
 Learning Outcomes
 
@@ -87,10 +87,9 @@ Strengthened UI consistency and hierarchy skills
 Gained experience designing web + mobile ecosystems
 
 Author
-
 Name: SANJAY. R
 Role: UI/UX Design Intern
 Project Type: Internship Assignment – Task 03
 
-📄 License
+License
 This project is created for educational and evaluation purposes only.
