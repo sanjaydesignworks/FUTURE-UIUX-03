@@ -3,6 +3,7 @@ Internship Task 03
 DesignCrest – Design Freelancers Platform (UI/UX Case Study)
 
 Project Overview
+
 DesignCrest is a UI/UX design project for a web and mobile platform that connects design freelancers with clients and creative projects. The platform enables designers to showcase their profiles and portfolios, apply for relevant projects, submit proposals, and manage their freelance workflow in a structured and user-friendly environment.
 
 Objective of the Assignment
@@ -15,7 +16,9 @@ Deliver a consistent experience across web and mobile
 Target Users
 
 Freelance Designers (UI/UX, Graphic, Product, Web)
+
 Clients / Agencies looking to hire designers
+
 Creative studios & startups
 
 Key Features Designed
@@ -50,7 +53,9 @@ Usability & Visual Consistency
 Tools Used
 
 Figma – UI design & prototyping
+
 Canva – Supporting visuals
+
 Design System principles – spacing, typography, color consistency
 
 Design Highlights
@@ -75,8 +80,11 @@ Profile Screen (Mobile)
 Assignment Compliance
 
 Public GitHub Repository
+
 Repository naming guidelines followed
+
 Original UI/UX work
+
 Screens properly documented
 
 Learning Outcomes
@@ -87,9 +95,11 @@ Strengthened UI consistency and hierarchy skills
 Gained experience designing web + mobile ecosystems
 
 Author
+
 Name: SANJAY. R
 Role: UI/UX Design Intern
 Project Type: Internship Assignment – Task 03
 
 License
+
 This project is created for educational and evaluation purposes only.
