@@ -16,11 +16,8 @@ Deliver a consistent experience across web and mobile
 Target Users
 
 Freelance Designers (UI/UX, Graphic, Product, Web)
-
 Clients / Agencies looking to hire designers
-
 Creative studios & startups
-
 Key Features Designed
 
 Web Platform
@@ -53,11 +50,8 @@ Usability & Visual Consistency
 Tools Used
 
 Figma – UI design & prototyping
-
 Canva – Supporting visuals
-
 Design System principles – spacing, typography, color consistency
-
 Design Highlights
 
 Minimal & modern visual language
@@ -80,13 +74,9 @@ Profile Screen (Mobile)
 Assignment Compliance
 
 Public GitHub Repository
-
 Repository naming guidelines followed
-
 Original UI/UX work
-
 Screens properly documented
-
 Learning Outcomes
 
 Designed a multi-platform freelancer marketplace
@@ -95,7 +85,6 @@ Strengthened UI consistency and hierarchy skills
 Gained experience designing web + mobile ecosystems
 
 Author
-
 Name: SANJAY. R
 Role: UI/UX Design Intern
 Project Type: Internship Assignment – Task 03
